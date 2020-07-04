@@ -1,8 +1,13 @@
 candy_list = ["Palanquetas","Glorias","Ate","Mueganos","Cocada"]
 
+
+
 allowance = 5
 
 candy_cart = []
+
+
+
 
 
 for x in range(len(candy_list)):
